@@ -1,3 +1,4 @@
+favicon: null
 analytics:
   twitter: null
   google: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2607123111374676
-  brandStrength: 0.1027569
+  brandStrength: 0.06390978
   lightness: 0.7884341939352453
   brandColors:
-    - '#F2F2F2'
-    - '#030303'
-    - '#909090'
-    - '#404040'
-    - '#6C6C6C'
+    - '#F3F3FD'
+    - '#854B23'
+    - '#120000'
+    - '#B6774A'
+    - '#D8C8B0'
   rhythmicContrast: 0.8483124058693647
 typography_spectrum: 0.5037594
+layout_spectrum: 0.7994987
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2005012
-favicon: null
 name: iPilates
